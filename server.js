@@ -9,7 +9,6 @@ const adminRoute = require("./routes/adminRoute");
 const doctorRoute = require("./routes/doctorRoute");
 const prescriptionRoute = require('./routes/prescriptionRoute');
 const path = require('path');
-const path = require('path')
 
 
 app.use(cors());
